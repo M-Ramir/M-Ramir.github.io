@@ -1,9 +1,9 @@
 
 ## Maria Ramirez
 
-Senior Information Technology student
-University of Washington Tacoma
-Email: Mara98@uw.edu
+Senior Information Technology student<br>
+University of Washington Tacoma <br>
+Email: Mara98@uw.edu <br>
 
 ```markdown
 Syntax highlighted code block
