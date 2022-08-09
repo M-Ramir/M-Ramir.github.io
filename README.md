@@ -1,7 +1,9 @@
 
 ## Maria Ramirez
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Senior Information Technology student
+University of Washington Tacoma
+Email: Mara98@uw.edu
 
 ```markdown
 Syntax highlighted code block
